@@ -1,0 +1,23 @@
+Run reset.sh by typing the following command:
+sh reset.sh 
+It will create the required database directories and files
+
+run the server in one terminal
+run the client in other
+
+first sign up and create one admin account. 
+it will ask for a secret for admin account. the secret is "root"
+
+now login into admin account and add trains
+
+create a customer and login to book ticket
+
+
+As the functions of agent and customer are same .. the login part of agent has to be edited/ linked
+the difference between in customer and agent is:
+customer-> Single Access
+agent -> Multiple Access
+
+admin - id/password -> 2/admin123
+client - id/password -> 2/c1
+
